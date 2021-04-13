@@ -1,7 +1,7 @@
 Bestemmiometro
 =================
 
-Bot per contare le bestemmie inviate in un server.
+Bot per contare le bestemmie inviate in un server discord.
 
 Riscritto 2 anni dopo perchè Java > All (tralasciando il fatto che l'altro codice in js faceva schifo).
 
